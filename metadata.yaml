@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '26379'
     url: http://www.gutenberg.org/2009/agents/26379
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24293#Christian-Devotedness
 gutenberg_issued: '2008-01-15'
 gutenberg_type: Text
 identifiers:
